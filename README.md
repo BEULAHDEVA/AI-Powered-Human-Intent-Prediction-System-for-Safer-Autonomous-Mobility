@@ -131,3 +131,17 @@ This project is designed for the **nuScenes** dataset. The data pipeline:
 5. Normalizes coordinates relative to last observed position
 
 For development without nuScenes, synthetic data with realistic motion patterns is generated automatically.
+
+## Visualization outputs 
+
+<img width="2359" height="2369" alt="scenario_analysis_1" src="https://github.com/user-attachments/assets/14545baa-dda1-4b5c-bb84-2650815089f9" />
+<img width="2359" height="2369" alt="scenario_analysis_2" src="https://github.com/user-attachments/assets/e9f1f86d-7328-444a-b1f1-84ebe7bccb30" />
+<img width="2359" height="2369" alt="scenario_analysis_3" src="https://github.com/user-attachments/assets/da55fd5c-3f40-4294-94d8-c65a1585c8e4" />
+<img width="2359" height="2369" alt="scenario_analysis_4" src="https://github.com/user-attachments/assets/440f9342-ed9d-4cfe-b4d3-3315cea94592" />
+<img width="2359" height="2369" alt="scenario_analysis_5" src="https://github.com/user-attachments/assets/9c6f952f-15f7-4886-8fbe-b54c1bba7a5c" />
+<img width="2385" height="2369" alt="scenario_analysis_6" src="https://github.com/user-attachments/assets/7527f624-6848-49d3-a541-3666b485f5b9" />
+<img width="2359" height="2369" alt="scenario_analysis_7" src="https://github.com/user-attachments/assets/678dac8c-4843-4826-9f53-fe39d748a3b5" />
+<img width="2359" height="2369" alt="scenario_analysis_8" src="https://github.com/user-attachments/assets/1fbe0c7c-f4f4-4d25-a0a2-0860a7b358ae" />
+<img width="2082" height="730" alt="training_curves" src="https://github.com/user-attachments/assets/cbcdd403-a7c3-42bb-ad46-864518855e79" />
+
+
